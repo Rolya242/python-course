@@ -1,0 +1,10 @@
+nom = input("saisir votre nom ")
+prenom = input("saisir votre prenom ")
+print("votre nom et prenom est "+nom+" "+prenom)
+
+age = input("saisir votre age ")
+age = int(age)
+print("votre age apres 5 ans est ")
+print(age+5)
+print(" et apres 10 ans est")
+print(age+10)
